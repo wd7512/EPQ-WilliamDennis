@@ -30,7 +30,9 @@ This will be done by finding then reading the specific item that connects the bo
 ##### [Controlled Assessment Material 2](https://github.com/wd7512/EPQ-WilliamDennis/blob/master/GCSE%20Tasks/A453CA2Jun15_104065.pdf)
 
 ###### Task1:
+This task requires an input of the students name. Then there will be 10 questions in which they should have 3 questions for each addition subtraction and multiplication. Thus leaving the last question to be completely random.
 
+The additiion and subtraction will be done with 2 digit numbers and the multiplication with just single digits. The output will be the users score out of 10
 ###### Task2:
 
 ###### Task3:
