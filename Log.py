@@ -7,7 +7,7 @@ with open('log.txt','a+') as f:
     f.write('\n'+(time.strftime("%H:%M:%S"))+'--'+(time.strftime("%d/%m/%Y")))
     txts=str(input(':'))
     see=''
-    while txts =! '':
+    while txts != '':
         see=(see+'\n'+txts)
         print(see)
         txts=str(input(':'))
