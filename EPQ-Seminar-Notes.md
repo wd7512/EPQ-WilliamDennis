@@ -1,4 +1,3 @@
-
 # 31/1/18
 ## Arguments
 * Create journal
@@ -15,3 +14,5 @@
 * Is the question fully researchable?
 * Keep notes organised
 * Systematically track
+* Record referances
+* Use diagrams
