@@ -6,7 +6,7 @@ with open('log.txt','r') as f:
 b=-2
 c=a[b]
 d=[]
-while c != '==========':
+while c != '==========\n':
     c=a[len(a)+b]
     d.append(c)
     b=b-1
