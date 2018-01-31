@@ -7,3 +7,4 @@
 * Structure well
 * Dont jump fron statements to conclusion
 * Correlation is not causation
+* Get feedback
