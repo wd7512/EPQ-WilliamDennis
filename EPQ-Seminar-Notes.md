@@ -1,3 +1,4 @@
+
 # 31/1/18
 ## Arguments
 * Create journal
@@ -12,3 +13,5 @@
 * Form a good research question
 * Argumentative rarther than scriptive
 * Is the question fully researchable?
+* Keep notes organised
+* Systematically track
