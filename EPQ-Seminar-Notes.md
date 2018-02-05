@@ -28,6 +28,9 @@
 * Whether or not you skip certain sections
 * Research plan/strategy
 * Know what your looking for
+* Dont look at what you already know
+* Is it relevant?
+* Think about the author
 ### Notes
 * Visual
 * Level of detail
