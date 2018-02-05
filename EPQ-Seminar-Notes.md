@@ -30,6 +30,7 @@
 * Understanding main ideas, arguments and experts
 * Critiquing key ideas and arguments
 * Gathering evidance
+* Rereading for writing up
 ### Reading
 * Why am i reading this?
 * Whether or not you skip certain sections
