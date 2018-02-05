@@ -42,3 +42,7 @@
 ### Notes
 * Visual
 * Level of detail
+### Literature Review
+* Looking at past research projects
+* Inverted triangle
+* Broad > Studies that overlap with mine > Studies directly related
