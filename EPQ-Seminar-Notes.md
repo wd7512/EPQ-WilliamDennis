@@ -23,6 +23,10 @@
 * Record referances
 * Use diagrams
 ## 5/2/18
+### Research Stages
+* Explore the Topic
+** What appeals to me?
+* Collecting ideas and inspiration
 ### Reading
 * Why am i reading this?
 * Whether or not you skip certain sections
@@ -31,6 +35,7 @@
 * Dont look at what you already know
 * Is it relevant?
 * Think about the author
+* What to produce after reading
 ### Notes
 * Visual
 * Level of detail
