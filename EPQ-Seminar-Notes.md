@@ -2,7 +2,7 @@
 ## Hours
 * 4 Hours Intro
 * 1 Hour in middle of Jan?
-* 31/1/18 1 Hour
+* [31/1/18](https://github.com/wd7512/EPQ-WilliamDennis/blob/master/EPQ-Seminar-Notes.md#31118) 1 Hour
 * [5/2/18](https://github.com/wd7512/EPQ-WilliamDennis/blob/master/EPQ-Seminar-Notes.md#5218) 1 Hour
 ## 31/1/18
 ### Arguments
