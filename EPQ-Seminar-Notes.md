@@ -3,6 +3,7 @@
 * 4 Hours Intro
 * 1 Hour in middle of Jan?
 * 31/1/18 1 Hour
+* 5/2/18
 ## 31/1/18
 ### Arguments
 * Create journal
@@ -21,3 +22,4 @@
 * Systematically track
 * Record referances
 * Use diagrams
+## 5/2/18
