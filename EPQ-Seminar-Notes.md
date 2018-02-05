@@ -46,6 +46,7 @@
 * Selective, relevant, organised
 * Main points, key arguments
 * Questions?
+* Keep tabs
 ### Literature Review
 * Looking at past research projects
 * Inverted triangle
