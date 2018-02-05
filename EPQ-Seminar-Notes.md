@@ -25,8 +25,11 @@
 ## 5/2/18
 ### Research Stages
 * Explore the Topic
-** What appeals to me?
 * Collecting ideas and inspiration
+* Identify research questions/ideas
+* Understanding main ideas, arguments and experts
+* Critiquing key ideas and arguments
+* Gathering evidance
 ### Reading
 * Why am i reading this?
 * Whether or not you skip certain sections
