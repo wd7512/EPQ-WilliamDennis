@@ -1,5 +1,10 @@
-# 31/1/18
-## Arguments
+# EPQ Seminars
+## Hours
+* 4 Hours Intro
+* 1 Hour in middle of Jan?
+* 31/1/18 1 Hour
+## 31/1/18
+### Arguments
 * Create journal
 * Different perspectives
 * Explanation in one paragraph
@@ -8,7 +13,7 @@
 * Dont jump fron statements to conclusion
 * Correlation is not causation
 * Get feedback
-## Independant Research
+### Independant Research
 * Form a good research question
 * Argumentative rarther than scriptive
 * Is the question fully researchable?
