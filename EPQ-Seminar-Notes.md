@@ -3,7 +3,7 @@
 * 4 Hours Intro
 * 1 Hour in middle of Jan?
 * 31/1/18 1 Hour
-* 5/2/18
+* 5/2/18 1 Hour
 ## 31/1/18
 ### Arguments
 * Create journal
@@ -23,3 +23,11 @@
 * Record referances
 * Use diagrams
 ## 5/2/18
+### Reading
+* Why am i reading this?
+* Whether or not you skip certain sections
+* Research plan/strategy
+* Know what your looking for
+### Notes
+* Visual
+* Level of detail
