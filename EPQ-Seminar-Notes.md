@@ -43,6 +43,9 @@
 ### Notes
 * Visual
 * Level of detail
+* Selective, relevant, organised
+* Main points, key arguments
+* Questions?
 ### Literature Review
 * Looking at past research projects
 * Inverted triangle
