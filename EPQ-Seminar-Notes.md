@@ -56,3 +56,5 @@
 * Find key point and discussion points
 * Use charts and graphs
 * Good paragraph. Outline point, Present evidance, Link back to question, Link to next paragraph
+* Read it through
+* Spell out numbers up to TEN
