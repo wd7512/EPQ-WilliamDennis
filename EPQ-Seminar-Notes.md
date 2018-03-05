@@ -51,3 +51,8 @@
 * Looking at past research projects
 * Inverted triangle
 * Broad > Studies that overlap with mine > Studies directly related
+### EPQ Essay
+* Outline key structure E.G. Inspiration Maps
+* Find key point and discussion points
+* Use charts and graphs
+* Good paragraph. Outline point, Present evidance, Link back to question, Link to next paragraph
