@@ -9,3 +9,7 @@ After discussion with co-ordinator, my question has changed. I have looked at sp
     * I then cloned the [files required](https://github.com/spotify/web-api-auth-examples)
     * I then installed the package manager, npm
 ![npm install](https://github.com/wd7512/EPQ-WilliamDennis/blob/master/Pictures/npm%20install.png?raw=true)
+    * I then created a spotify developer client
+![client setup](https://github.com/wd7512/EPQ-WilliamDennis/blob/master/Pictures/client%20setup.png?raw=true)
+    * I then added the client ID and client secret **but now redirect uri** as I do not own a redirect uri
+![client ID](https://github.com/wd7512/EPQ-WilliamDennis/blob/master/Pictures/client%20ID.png?raw=true)
