@@ -2,3 +2,4 @@
 After discussion with co-ordinator, my question has changed. I have looked at spotify's [API](https://beta.developer.spotify.com/documentation/web-api/quick-start/)
 This requires node.js, so i have installed it from the node.js [website](https://nodejs.org/en/)
 I have hence run a quick test
+![](Node Install.png)
